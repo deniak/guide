@@ -165,15 +165,6 @@ toc: true
 - Doing a [Hybrid Group Meeting](meetings/hybrid-meeting.md)
 - [The Seven Sins of Deadly Meetings](https://www.fastcompany.com/26726/seven-sins-deadly-meetings)
 
-### Historical {#historical}
-
-- [W3C XML Specification DTD (XMLspec)](https://www.w3.org/2002/xmlspec/), by Norman Walsh.
-{:#xmlspec}
-
-- [XMLSpec diff generation](https://www.w3.org/2008/05/xmlspec-diff-generation/)
-- QA resources: [Specification Guidelines](https://www.w3.org/TR/qaframe-spec/), [Handbook for QA in groups](https://www.w3.org/TR/qa-handbook/), and [QA Framework primer](https://www.w3.org/QA/WG/qaframe-primer)
-- [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) for slide presentations
-
 ### Advice on Specification Development {#spec-advice}
 
 - Most popular editing tools: [Bikeshed](https://speced.github.io/bikeshed/), [respec](https://github.com/speced/respec/wiki)
@@ -187,6 +178,15 @@ toc: true
 - [Using GitHub for Spec Work (documentation)](https://tobie.github.io/specs-on-github/)
 - [GitHub Repository Manager](https://labs.w3.org/hatchery/repo-manager/): One interface to find all group GitHub contributors and the IPR status
 - [PR Preview - Adds preview and diff links to pull requests](https://lists.w3.org/Archives/Public/spec-prod/2017JanMar/0047.html) ([Config Helper](https://tobie.github.io/pr-preview/config.html))
+
+### Historical {#historical}
+
+- [W3C XML Specification DTD (XMLspec)](https://www.w3.org/2002/xmlspec/), by Norman Walsh.
+{:#xmlspec}
+
+- [XMLSpec diff generation](https://www.w3.org/2008/05/xmlspec-diff-generation/)
+- QA resources: [Specification Guidelines](https://www.w3.org/TR/qaframe-spec/), [Handbook for QA in groups](https://www.w3.org/TR/qa-handbook/), and [QA Framework primer](https://www.w3.org/QA/WG/qaframe-primer)
+- [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) for slide presentations
 
 ## About the Guidebook {#care-and-feeding}
 
