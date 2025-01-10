@@ -42,9 +42,9 @@ toc: true
 - [Predicting milestones](process/predicting-milestones.md), use our [milestones calculator](https://w3c.github.io/spec-releases/milestones/) to help with dates.
 - Face-to-face meetings
   
-  - [**Continuity of Operations under Travel Restrictions**](meetings/continuity.md)
-  - [Host a face-to-face meeting](meetings/hosting.html) and [Standard Venue Arrangements for W3C Events: Conferences, Workshops, and Meetings](https://www.w3.org/2011/06/WorkshopHost.html)
+  - [Host a face-to-face meeting](meetings/hosting.md) and [Standard Venue Arrangements for W3C Events: Conferences, Workshops, and Meetings](https://www.w3.org/2011/06/WorkshopHost.html)
   - [Policy Regarding Non-Disclosure Agreements and W3C Meetings](https://www.w3.org/policies/no-nda/)
+  - [Continuity of Operations under Travel Restrictions](meetings/continuity.md)
   - [W3C Travel Policy affecting Staff Contacts](https://lists.w3.org/Archives/Member/chairs/2017JanMar/0141.html)
 - Issue tracking:
   
@@ -74,7 +74,7 @@ toc: true
   - [Request Wide Review](documentreview/) at least *2-3 months before CR*, to allow time for discussion and rework. This includes requesting [horizontal reviews](documentreview/#how-to-get-horizontal-review).
   - [Pubrules](https://www.w3.org/pubrules/) ([publication requirements](https://www.w3.org/pubrules/doc)) and links to related policies (e.g., [namespaces](https://www.w3.org/2005/07/13-nsuri), [MIME type registration](https://www.w3.org/2020/01/registering-mediatypes), [version management](https://www.w3.org/2005/05/tr-versions), and [in-place modifications](https://www.w3.org/2003/01/republishing/))
     See also [Pubrules issue management](https://github.com/w3c/specberus/issues)
-  - **March 2017**: [Obsoleting and Rescinding W3C Specifications](https://www.w3.org/2016/11/obsoleting-rescinding/)
+  - **March 2017**: [Obsoleting and Rescinding W3C Specifications](process/obsolete-rescinded-supserseded.md)
 - [Normative References](process/tilt/normative-references.md); considerations the Team takes into account when evaluating normative references
 - Addressing formal objections: [best practices to resolve and decide Formal Objections](council/council.md) (aka council guide)
 - Publications can only happen on Tuesdays and Thursdays ([Member-only archive of announcement](https://lists.w3.org/Archives/Member/chairs/2009JanMar/0192.html)), unless you use the [automated publication system](https://github.com/w3c/echidna/wiki)
@@ -89,7 +89,7 @@ toc: true
 - Write on the [W3C Blog](https://www.w3.org/news-events/about-w3c-blog/) (open to W3C Group participants, members of the W3C Team); talks publicized on [W3C home page](https://www.w3.org/), [Public Weekly Newsletter](https://lists.w3.org/Archives/Public/w3c-announce/), W3C Social Media.
 - [Press release testimonial guidelines](https://www.w3.org/2004/12/testimonial_pr-guidelines.html)
 - [Creating and delivering effective presentations](https://www.w3.org/wiki/Speaker_Resources)
-- [How to Make Presentations Accessible to All](https://www.w3.org/WAI/training/accessible)
+- [Making Events Accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
 
 ## Reference {#ref}
 
@@ -97,7 +97,7 @@ toc: true
 
 ### Systems and Tools {#systems}
 
-- [Markup Validators](https://validator.w3.org/), [Link checker](https://validator.w3.org/checklink), [Spell checker](https://www.w3.org/2002/01/spellchecker), [HTML diff tool](https://services.w3.org/htmldiff), [SpecRef](https://www.specref.org/), [normative references checker](https://labs.w3.org/normative-references/), [bibliography generator](https://www.w3.org/2002/01/tr-automation/tr-biblio-ui), and [more tools](https://www.w3.org/2004/12/wg-tools.html)
+- [Markup Validators](https://validator.w3.org/), [Link checker](https://validator.w3.org/checklink), [Spell checker](https://www.w3.org/2002/01/spellchecker), [HTML diff tool](https://services.w3.org/htmldiff), [SpecRef](https://www.specref.org/), [normative references checker](https://labs.w3.org/normative-references/), and [more tools](https://www.w3.org/2004/12/wg-tools.html)
 - See also: [Tools Wiki](https://www.w3.org/2006/tools/)and [W3C Editors home page](editor/)
 - [Mailing list archive](https://lists.w3.org/Archives/Member/w3c-tools/) of tools announcements (Member-only)
 - [Edit your contact information or affiliation](https://www.w3.org/users/myprofile/)
