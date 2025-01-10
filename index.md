@@ -200,6 +200,8 @@ toc: true
 
 ## About the Guidebook {#care-and-feeding}
 
+*Got a question? Join #general in [IRC](https://webirc.w3.org/?channels=general) or [Slack](https://w3ccommunity.slack.com/) ([invite](https://www.w3.org/slack-w3ccommunity-invite)).*
+
 This Guidebook is intended to complement the [W3C Membership Agreement](https://www.w3.org/Consortium/Agreement/Appendix) and the [W3C Process](https://www.w3.org/policies/process/). This page is **Public**, although a small number of resources linked from this page may be visible only to the W3C Membership or Team.
 
 You are expected to be familiar with the parts of this Guidebook that affect your work. Working Group chairs should get a "tour" from their team contact. Then take a look again, for example, if you're going to hold a face-to-face meeting; read the [section on meetings](#Meetings) to be sure you understand what's written there, and to record any valuable knowledge you pick up along the way.
